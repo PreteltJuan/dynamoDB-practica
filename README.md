@@ -1,1 +1,1 @@
-# mongoDB_practica
+# dynamoDB_practica
